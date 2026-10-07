@@ -16,7 +16,7 @@ I also have hands-on experience with **Node.js and PostgreSQL** and I’m contin
 
 **Backend & data:** Node.js, REST APIs, PostgreSQL, MongoDB, Elasticsearch
 
-**Other:** WebSockets, Angular, RxJS, Git, Webpack, CI/CD fundamentals
+**Other:** WebSockets, Angular, RxJS, Git, Webpack, Cloud & delivery: Azure, CI/CD, Git
 
 ## Selected experience
 
